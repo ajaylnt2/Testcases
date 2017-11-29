@@ -1,0 +1,19 @@
+Exceptions:
+1) During updation "save details" click in all pages 
+maximum num of time getting exception like "error occured in saving details". 
+2) Home pages Wages Logo redirection-Exception
+3) Session is not maintaining properly.
+
+
+
+**************************** high priority- Sabarish
+
+1. how to change the USD Exchange Rate?
+2. Taget Column in Alarm ?
+3. What does Alarm indicate in Home Page?
+4. Remove button to be enabled for deleting dummy data from Actual producion
+5. Remove button to be enabled for deleting dummy data from budgeted producion
+6. Daily Production Data population
+7. UOM validation has to be checked
+8. Alarm Configuration data validation
+9. Dashboard setting data usage?
